@@ -372,7 +372,7 @@ button {
   margin-top: 8px;
 }
 
-.team-item-icon {
+.team-link-icon {
   display: flex;
   width: 40px;
   height: 40px;
@@ -381,8 +381,8 @@ button {
   align-items: center;
   background-color: var(--first-logo-color);
 }
-.team-item-icon:hover,
-.team-item-icon:focus {
+.team-link-icon:hover,
+.team-link-icon:focus {
   cursor: pointer;
   background-color: var(--addr-active-color);
 }
